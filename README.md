@@ -2,7 +2,7 @@
 
 🎯 **Principal Data Analyst | Statistical Modeler | R shiny web developments | R & SAS Programming**
 
-With over **6 years of hands-on experience** in data analytics, statistical modeling, and machine learning, I specialize in transforming complex data into actionable insights that drive strategic decisions.
+With over **9 years of hands-on experience** in data analytics, statistical modeling, and machine learning, I specialize in transforming complex data into actionable insights that drive strategic decisions.
 
 ### 👨‍💼 Currently:
 **Principal Data Analyst** at Catalyst Clinical Research, where I:
