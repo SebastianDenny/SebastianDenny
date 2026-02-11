@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Sebastian Denny
+## 👋 Hi there, I'm Denny Sebastian
 
 🎯 **Principal Data Analyst | Statistical Modeler | R shiny web developments | R & SAS Programming**
 
